@@ -1,4 +1,4 @@
-# Linked Lists — CSC355 Project 3
+# Linked Lists — CSC355
 
 A Java program implementing and comparing a singly linked list and a doubly linked list, with interactive insertion, deletion, search, and traversal operations.
 
