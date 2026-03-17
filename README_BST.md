@@ -1,4 +1,4 @@
-# Binary Search Tree — CSC355 Project 6
+# Binary Search Tree — CSC355
 
 A Java implementation of a Binary Search Tree (BST) that stores integer key-value pairs and tracks node height and subtree size.
 
