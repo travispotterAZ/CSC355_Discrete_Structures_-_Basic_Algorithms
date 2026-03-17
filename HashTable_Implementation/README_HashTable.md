@@ -4,23 +4,6 @@ A Java implementation of a generic hash table using open addressing with linear 
 
 ---
 
-## ✅ Completeness Status
-
-**This project is complete.** All required methods in `Hashtable.java` and `Pair.java` are fully implemented:
-
-| Class | Method | Status |
-|-------|--------|--------|
-| `Pair` | `getKey()`, `getValue()`, `setValue()` | ✅ Complete |
-| `Pair` | `equals()`, `toString()` | ✅ Complete |
-| `Pair` | `getDeletionStatus()`, `setDeleted()` | ✅ Complete |
-| `Hashtable` | `get(K key)` | ✅ Complete |
-| `Hashtable` | `put(K key, V val)` | ✅ Complete |
-| `Hashtable` | `delete(K key)` | ✅ Complete |
-| `Hashtable` | `isEmpty()`, `size()` | ✅ Complete |
-| `Hashtable` | `resizeTable()`, `reInsert()` | ✅ Complete |
-
----
-
 ## Overview
 
 This project implements a generic hash table from scratch in Java using:
