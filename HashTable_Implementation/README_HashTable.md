@@ -1,4 +1,4 @@
-# Hashtable — CSC355 Project 5
+# Hashtable — CSC355
 
 A Java implementation of a generic hash table using open addressing with linear probing, lazy deletion, and automatic resizing.
 
